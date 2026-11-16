@@ -3,43 +3,32 @@
 
 ## Project Overview
 
-CREW CONNECT is a web-based Employee Management System developed to help organize and manage employee-related information and daily activities. It provides a simple and user-friendly platform where employees can access their personal information, record attendance, and submit leave requests, while authorized staff can manage employee records and monitor employee activities.
+CREW CONNECT is a web-based Employee Management System designed to make employee information and workplace activities easier to manage. It provides a platform for employees to access their personal information, record attendance, and submit leave requests. Authorized staff can also manage employee records, monitor attendance, and process leave requests.
 
 ## System Features
 
-### 1. Employee Portal
+### Employee Portal
 - View personal employee information.
-- Access the dashboard.
+- Access the employee dashboard.
 - Record daily time-in and time-out.
 - View attendance history.
 - Submit leave requests.
-- Track leave request status.
-- Update personal information.
+- Check leave request status.
 
-### 2. Authorized Staff Portal
+### Authorized Staff Portal
 - Access the staff dashboard.
-- View registered employee records.
-- Add new employee information.
-- Edit existing employee records.
-- Delete employee records.
-- Search employee information.
-- View employee attendance records.
+- View and manage employee records.
+- Add, edit, and delete employee information.
+- Search employee records.
+- Monitor employee attendance.
 - Review submitted leave requests.
 - Approve or reject leave requests.
 - Export employee records into CSV format.
 
-### 3. Login and Access
-- Separate login access for employees and authorized staff.
-- Username and password authentication.
-- Remember Me option.
-- Demo accounts for testing purposes.
-
 ## Project Purpose
 
-The purpose of CREW CONNECT is to provide a convenient and organized way of handling employee information and basic workplace activities. It aims to simplify employee record management, attendance monitoring, and leave request processing through an accessible web-based platform.
+The purpose of CREW CONNECT is to provide a convenient and organized way of managing employee information and workplace activities. It aims to simplify employee record management, attendance monitoring, and leave request processing through a user-friendly web-based system.
 
 ## Developed By
 
 **Our Group Project Team**
-
-
